@@ -1,2 +1,2 @@
-# Challange_Fronted_Mentor
+# Challange_Frontend_Mentor
  Bar code challange
